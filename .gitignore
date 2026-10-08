@@ -1,0 +1,7 @@
+# raw NHANES XPT files (fetched by code/download_d1_data.r; not distributed via git)
+nhanes_data/A_2005_2006/
+nhanes_data/A_2007_2008/
+nhanes_data/A_2009_2010/
+nhanes_data/B_backup_2017_2018/
+nhanes_data/B_pmcq_2017_2020/
+*.tmp
