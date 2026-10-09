@@ -201,8 +201,8 @@ p_f <- ggplot(sg, aes(x = OR, y = level)) +
   geom_vline(xintercept = 1, linetype = "dashed", color = "grey55") +
   facet_grid(subgroup ~ ., scales = "free_y", space = "free_y") +
   labs(x = "OR (95% CI)", y = NULL,
-       title = "Subgroup analyses: serum 25(OH)D >=50 vs <50 nmol/L",
-       caption = "Diarrhea-type stool, >=50 vs <50 nmol/L (ref: <50). NHANES 2005-2010, weighted") +
+       title = "Subgroup analyses: serum 25(OH)D ≥50 vs <50 nmol/L",
+       caption = "Diarrhea-type stool, ≥50 vs <50 nmol/L (ref: <50). NHANES 2005-2010, weighted") +
   theme_minimal(base_size = 12) +
   theme(strip.text.y = element_text(angle = 0, face = "bold"),
         panel.spacing.y = unit(0.6, "lines"))
