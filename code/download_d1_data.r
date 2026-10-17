@@ -1,6 +1,6 @@
 # =====================================================
 # D1 数据一键下载与校验脚本  (download_d1_data.R)
-# 项目: NHANES 胆囊切除史 x 排便表型 (目标期刊 Scientific Reports)
+# 项目: NHANES 血清 25(OH)D 与排便表型（分析管线）
 # 用法: 在 R/RStudio 中 source("download_d1_data.R")
 #       工作目录即数据落盘根目录 (自动创建 nhanes_data/)
 # 依赖: 仅需 base R 的 foreign 包 (R 自带); 若用 nhanesA 则 install.packages("nhanesA")

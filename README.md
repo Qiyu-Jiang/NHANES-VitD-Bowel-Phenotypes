@@ -1,8 +1,8 @@
-﻿# Serum 25-hydroxyvitamin D and bowel movement phenotypes among US adults
+# Serum 25-hydroxyvitamin D and bowel movement phenotypes among US adults
 
 Analysis code and derived data for the manuscript:
 
-> **Serum 25-hydroxyvitamin D and bowel movement phenotypes among US adults: a cross-sectional study of NHANES 2005–2010** (manuscript in preparation; target journal: *Scientific Reports*)
+> **Serum 25-hydroxyvitamin D and bowel movement phenotypes among US adults: a cross-sectional study of NHANES 2005–2010** (manuscript in preparation)
 
 ## Study summary
 
